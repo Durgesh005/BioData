@@ -1,0 +1,10 @@
+<?xml version ="1.0" encoding ="utf-8"?><!--  Learn More about how to use App Actions: https://developer.android.com/guide/actions/index.html -->
+<actions>
+    <vector
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:aapt="http://schemas.android.com/aapt"
+        android:width="319.26dp"
+        android:height="64dp"
+        android:viewportWidth="319.26"
+        android:viewportHeight="64"/>
+</actions>
